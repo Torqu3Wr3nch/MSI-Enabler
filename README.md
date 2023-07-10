@@ -1,2 +1,2 @@
 # MSI-Enabler
-Unleash NVIDIA GPU Power on Windows VMs.
+PowerShell script to enable MSI on Nvidia GPUs in Windows.
